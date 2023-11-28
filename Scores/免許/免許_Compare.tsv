@@ -1,4 +1,4 @@
-usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker1	worker2	worker3
+usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker2	worker3	worker1
 60M太陽1895_03052	10560	7180	PM12_00059	91210	61330	2	4	3
 60M国民1888_30007	15630	10180	PM21_01099	53150	30110	2	2	1
 60M太陽1917_04015	69640	45400	PM25_00067	54040	31410	4	3	3

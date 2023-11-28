@@ -1,4 +1,4 @@
-usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker1	worker2	worker3
+usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker3	worker1	worker2
 PM51_00093	18480	11490	PM11_00267	62880	42320	対象語が一つしかないので判断できない	文章が一つしかありません	2
 PM51_01080	18610	11400	PM52_00038	76510	49470	4	3	4
 PM11_00013	82000	48360	PM11_00267	27020	18420	2	2	1

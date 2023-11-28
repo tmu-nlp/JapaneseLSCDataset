@@ -1,4 +1,4 @@
-usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker1	worker2	worker3
+usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker3	worker2	worker1
 60M婦倶1925_06198	16640	10910	PM11_00591	30000	17890	4	4	4
 60M太陽1925_09022	12780	8580	PM11_00370	6390	3520	3	1	2
 60M女雑1894_37015	44060	27090	PM11_00419	3960	2290	4	4	4

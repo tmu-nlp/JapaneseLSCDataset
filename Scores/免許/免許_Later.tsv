@@ -1,4 +1,4 @@
-usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker1	worker2	worker3
+usage1_SampleID	usage1_CharacterStartingPosition	usage1_SequenceNumber	usage2_SampleID	usage2_CharacterStartingPosition	usage2_SequenceNumber	worker2	worker3	worker1
 PM25_00067	43520	24650	PM11_00786	4590	2700	4	4	3
 PM25_00086	2290	1170	PM11_00082	14970	9240	4	3	3
 PM12_00059	90210	60640	PM21_01099	10550	5560	4	3	3
