@@ -11,7 +11,7 @@ Zhidong Ling, Taichi Aida, Oka Teruaki, Mamoru Komachi
 * Corpus Search Engine CHUNAGON [link](https://chunagon.ninjal.ac.jp/)
 
 ### Access of usages
-Working on script for automatic usage collecting.
+Working on a convinent way for automatic usage collecting.
 
 We can send you usage data if you have CHUNAGON account and right to access CHJ and BCCWJ.
 
