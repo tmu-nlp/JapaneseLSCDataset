@@ -6,7 +6,8 @@ Zhidong Ling, Taichi Aida, Oka Teruaki, Mamoru Komachi
 ## Data
 
 ### Corpora
-* CHJ | Magazines (1860s ~ 1920s) [link](https://clrd.ninjal.ac.jp/chj/overview-en.html)
+* CHJ | Magazines (1868 ~ 1925) [link](https://clrd.ninjal.ac.jp/chj/overview-en.html)
+* SHC | Magazines (1925 ~ 2000) [link](https://clrd.ninjal.ac.jp/shc/index.html)
 * BCCWJ | Magazines (2001 ~ 2005) [link](https://clrd.ninjal.ac.jp/bccwj/en/index.html)
 * Corpus Search Engine CHUNAGON [link](https://chunagon.ninjal.ac.jp/)
 
@@ -20,4 +21,4 @@ Please contact the following email.
 > Zhidong Ling, Taichi Aida, Teruaki Oka, and Mamoru Komachi. Construction of Evaluation Dataset for Japanese Lexical Semantic Change Detection. Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC2023), pp.XXXX-XXXX. Hong Kong. December, 2023. (XXXX/XXXX)
 
 ## Contact
-Ling-zhidong@ed.tmu.ac.jp
+Ling-zhidong[at]ed.tmu.ac.jp
