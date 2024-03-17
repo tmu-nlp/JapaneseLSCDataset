@@ -1,4 +1,5 @@
-# Japanese lexical Semantic Change detection dataset (JaSemChange)
+# JaSemChange
+Japanese lexical Semantic Change detection dataset
 
 ## Author
 Zhidong Ling, Taichi Aida, Oka Teruaki, Mamoru Komachi
