@@ -22,4 +22,4 @@ Please contact the following email.
 > **Zhidong Ling**,  Taichi Aida, Teruaki Oka, and Mamoru Komachi. Construction of Evaluation Dataset for Japanese Lexical Semantic Change Detection. Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC2023), pp.125-136. Hong Kong. December, 2023.
 
 ## Contact
-Ling-zhidong[at]ed.tmu.ac.jp
+ling-zhidong[at]ed.tmu.ac.jp
